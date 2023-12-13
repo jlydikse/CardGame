@@ -1,0 +1,14 @@
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\bin\Debug\net8.0\CardGame.exe
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\bin\Debug\net8.0\CardGame.deps.json
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\bin\Debug\net8.0\CardGame.runtimeconfig.json
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\bin\Debug\net8.0\CardGame.dll
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\bin\Debug\net8.0\CardGame.pdb
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\CardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\CardGame.AssemblyInfoInputs.cache
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\CardGame.AssemblyInfo.cs
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\CardGame.csproj.CoreCompileInputs.cache
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\CardGame.dll
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\refint\CardGame.dll
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\CardGame.pdb
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\CardGame.genruntimeconfig.cache
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\ref\CardGame.dll
