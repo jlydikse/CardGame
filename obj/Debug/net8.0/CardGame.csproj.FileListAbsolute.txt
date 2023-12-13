@@ -12,3 +12,4 @@ C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\refint\CardGa
 C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\CardGame.pdb
 C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\CardGame.genruntimeconfig.cache
 C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\ref\CardGame.dll
+C:\Users\jlydi\Desktop\BYUI_2022\CSE 310\CardGame\obj\Debug\net8.0\CardGame.sourcelink.json

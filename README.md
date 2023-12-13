@@ -7,7 +7,7 @@ I used C# to code this card game, Dagee, because I wanted to try out a different
 I mainly wanted to challenge myself and solidify some of my learning that I've been able to acquire over the past couple of years. I created this card game a while back with the youth I work with in my church, and I wanted to provide them a playable version of it. Again, this is a work in progress, but I hope to make this a fully playable game soon.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[C# Dagee Card Game Video](https://youtu.be/64kbK1jDgTQ)
 
 # Development Environment
 

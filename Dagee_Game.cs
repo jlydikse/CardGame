@@ -30,11 +30,7 @@ class Program
             players.Add(new Player(playerName));
         }
 
-        // {
-        //     new Player("Player 1"),
-        //     new Player("Player 2"),
-        //     new Player("Player 3")
-        // };
+
 
 
         // Create a deck and shuffle it
